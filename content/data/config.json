@@ -1,10 +1,10 @@
 {
-    "title": "Stackbit Exto Theme",
+    "title": "Erick Dávila",
     "path_prefix": "/",
-    "color_scheme": "light",
-    "accent_color": "pink",
+    "color_scheme": "dark",
+    "accent_color": "blue",
     "header": {
-        "title": "Exto",
+        "title": "Erickneur",
         "has_nav": true,
         "nav_links": [
             {
@@ -45,28 +45,28 @@
         "social_links": [
             {
                 "label": "Twitter",
-                "url": "https://twitter.com/",
+                "url": "https://twitter.com/Erickneur",
                 "style": "icon",
                 "icon": "twitter",
                 "new_window": true
             },
             {
-                "label": "Instagram",
-                "url": "https://www.instagram.com/",
+                "label": "GitHub",
+                "url": "https://www.github.com/Erickneur",
                 "style": "icon",
-                "icon": "instagram",
+                "icon": "github",
                 "new_window": true
             },
             {
-                "label": "Dribbble",
-                "url": "https://dribbble.com/",
+                "label": "Stackoverflow",
+                "url": "https://stackoverflow.com/users/5938089/erick-dávila",
                 "style": "icon",
-                "icon": "dribbble",
+                "icon": "stackoverflow",
                 "new_window": true
             },
             {
                 "label": "LinkedIn",
-                "url": "https://www.linkedin.com/",
+                "url": "https://www.linkedin.com/in/erickneur",
                 "style": "icon",
                 "icon": "linkedin",
                 "new_window": true

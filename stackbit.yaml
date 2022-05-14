@@ -602,6 +602,7 @@ models:
           - twitter
           - vimeo
           - youtube
+          - stack-overflow
         default: dribbble
       - type: boolean
         name: new_window
